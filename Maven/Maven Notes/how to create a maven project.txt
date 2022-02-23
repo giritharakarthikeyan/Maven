@@ -1,0 +1,19 @@
+HOW TO CREATE A MAVEN PROJECT:
+
+Launch the Eclipse
+
+Go to file - new - Maven Project
+
+Click next
+
+select maven-archetype-quickstart as the archetype
+
+Click next
+
+Enter the GroupID, ArtifactID,Package  and click next
+
+Click finish
+
+
+
+you will see the src file and pom.xml file 

@@ -1,0 +1,13 @@
+MAVEN COMMANDS
+
+mvn clean install              - to run all the mandatory commands and build the life cycle,run the test , build out jar to the repository.
+mvn clean install -DskipTests  - to skip the unit test and run the program.
+mvn -X clean install           - used to run the program which gives lots of log which is necessary to sort the error.
+mvn version                    - shows the version of the maven .
+mvn dependency:tree            - to know the dependency tree of the particular projects
+mvn dependency:source          - to download the source code the dependency jar file
+mvn --help                     - to know the commands available
+mvn compile                    - to compile main source file
+mvn test-compile               - to compile test source file
+mvn test
+mvn surefire:test              - to run all the test cases

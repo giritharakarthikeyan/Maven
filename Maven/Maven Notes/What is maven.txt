@@ -1,0 +1,9 @@
+What is Maven?
+
+     Maven is a build tool that helps in project manangement. The tool helps in building and documenting the project.
+     Maven is written in java and C# and is based on the Project Object model(POM)
+     The tool is used to build and manage any Java-based project. It simplifies the day to day work of Java Developers and helpthem in their projects.
+
+POM:
+     Project Object Model is an XML file that has all the information regarding project and configuration details .
+     When we tend to execute a task, Maven searches for the POM in the current directory.

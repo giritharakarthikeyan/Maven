@@ -1,0 +1,20 @@
+Maven Phases and Goals:
+
+
+mvn install
+    
+     process-resources[resourses pluging and resources goal]
+
+         compile[compiler plugings and compiler goals]
+
+            test[surefire plugings and test goals]
+
+               package[jar plugings and jar plugings]
+
+
+
+
+
+                    jar:jar[for stand alone java project]
+package
+                    war:war[for Web application ]
